@@ -11,7 +11,7 @@
 <body>
     <div id="main">
         <h1>Онлайн магазин</h1>
-        <img src="https://icons8.ru/icons/set/cdn">
+        <img src="https://yandex.ru/images/search?pos=7&from=tabbar&img_url=http%3A%2F%2Fplay-lh.googleusercontent.com%2FT-TZtAc369E6DLnvx5H7uIinstk9np7WR6snNnbjO9ADv3TK1Oq078G5TVroHXDh-pVf&text=csasd&rpt=simage&lr=41">
         <p>Lalalala sss ddd aaa</p>
         <button id="buy">Купить</button>
     </div>
